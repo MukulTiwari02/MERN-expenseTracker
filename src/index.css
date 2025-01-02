@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: #17181f;
+    color: #ddd;
+}
+
+div.transaction:first-child{
+    border-top: 0;
+}
