@@ -4,7 +4,7 @@ A simple expense tracker application built using the MERN stack (MongoDB, Expres
 
 ## Live Demo
 
-[Live Demo](https://mern-expense-tracker-six.vercel.app/)
+[Live Demo](https://expensetracker-mt.vercel.app/)
 
 ## Repository
 
